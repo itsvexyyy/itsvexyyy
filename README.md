@@ -30,5 +30,5 @@
 </div>
 <hr />
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=itsvexyyy&style=for-the-badge&color=ffa6fd&abbreviated=true" />
+    <img src="https://komarev.com/ghpvc/?username=itsvexyyy&style=for-the-badge&color=ff69b4&abbreviated=true" />
 </div>
